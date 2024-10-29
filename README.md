@@ -6,3 +6,5 @@ Image repository for project readmes.
 - **keras** \<img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/tensorflowkeras.png" alt="react" width="200" />
 
 - **pymongo** \<img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/pymongo.png" alt="react" width="200" />
+
+- **cpp** \<img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/cpp.png" alt="react" width="200" />
