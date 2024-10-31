@@ -11,6 +11,6 @@ Image repository for project readmes.
 
 - **redis** \<img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/redis.png" alt="redis" height="100"/>
 
-- **C** \<img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/c.png" alt="redis" height="100"/>
+- **C** \<img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/c.png" alt="c" height="100"/>
 
-- **Java** \<img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/java.png" alt="redis" height="100"/>
+- **Java** \<img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/java.png" alt="java" height="100"/>
