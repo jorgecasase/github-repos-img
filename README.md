@@ -10,3 +10,5 @@ Image repository for project readmes.
 - **cpp** \<img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/cpp.png" alt="cpp.png" width="200"/>
 
 - **redis** \<img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/redis.png" alt="redis" width="200"/>
+
+- **C** \<img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/c.png" alt="redis" width="200"/>
