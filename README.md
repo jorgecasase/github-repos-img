@@ -19,3 +19,5 @@
 - **Python** \<img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/python.png" alt="python" height="100"/>
 
 - **AWS** \<img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/aws.png" alt="aws" height="100"/>
+
+- **JavaScript** \<img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/javascript.png" alt="JavaScript" height="100"/>
