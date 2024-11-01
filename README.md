@@ -18,3 +18,5 @@ Image repository for project readmes.
 - **Java** \<img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/java.png" alt="java" height="100"/>
 
 - **Python** \<img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/python.png" alt="python" height="100"/>
+
+- **AWSn** \<img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/aws.png" alt="aws" height="100"/>
