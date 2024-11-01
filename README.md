@@ -23,3 +23,5 @@
 - **JavaScript** \<img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/javascript.png" alt="JavaScript" height="100"/>
 
 - **node.js** \<img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/nodejs.png" alt="nodejs" height="100"/>
+
+- **mysql** \<img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/mysql.png" alt="mysql" height="100"/>
