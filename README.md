@@ -1,5 +1,4 @@
-# github-repos-img
-Image repository for project readmes.
+# Image repository for proyect readmes
 
 - **U-Tad** \<img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/u-tad.png" alt="u-tad" height="100"/>
 
