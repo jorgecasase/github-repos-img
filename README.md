@@ -4,7 +4,7 @@
 
 - **react** \<img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/react.svg" alt="react" height="100"/>
 
-- **keras** \<img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/tensorflowkeras.png" alt="tensorflowkeras.png" height="100"/>
+- **tensorflowkeras** \<img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/tensorflowkeras.png" alt="tensorflowkeras.png" height="100"/>
 
 - **pymongo** \<img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/pymongo.png" alt="pymongo.png" height="100"/>
 
