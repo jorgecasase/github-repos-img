@@ -29,4 +29,7 @@
 - **next** \<img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/next.png" alt="next" height="100"/>
 
 - **tailwind** \<img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/tailwind.png" alt="tailwind" height="100"/>
+
 - **vercel** \<img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/vercel.png" alt="vercel" height="100"/>
+
+- **huggingface** \<img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/huggingface.png" alt="huggingface" height="100"/>
