@@ -42,4 +42,4 @@
 
 - **anaconda** \<img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/anaconda.png" alt="anaconda" height="100"/>
 
-- **NLTK** \<img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/anaconda.png" alt="nltk" height="100"/>
+- **NLTK** \<img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/nltk.png" alt="nltk" height="100"/>
