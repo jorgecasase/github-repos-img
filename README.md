@@ -41,3 +41,5 @@
 - **neo4j** \<img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/neo4j.png" alt="neo4j" height="100"/>
 
 - **anaconda** \<img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/anaconda.png" alt="anaconda" height="100"/>
+
+- **NLTK** \<img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/anaconda.png" alt="nltk" height="100"/>
