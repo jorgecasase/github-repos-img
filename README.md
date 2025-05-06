@@ -42,10 +42,14 @@
 
 - **express** \<img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/express.png" alt="express" height="100"/>
 
-- **swagger** \<img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/swagger.png" alt="swagger" height="100"/>
+- **swagger** \<img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/swagger.png" alt="swagger" width="200"/>
 
 - **jest** \<img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/jest.png" alt="jest" height="100"/>
 
 - **anaconda** \<img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/anaconda.png" alt="anaconda" height="100"/>
 
 - **NLTK** \<img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/nltk.png" alt="nltk" height="100"/>
+
+- **kotlin** \<img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/kotlin.png" alt="kotlin" width="200"/>
+  
+- **flutter** \<img src="https://github.com/jorgecasase/github-repos-img/blob/main/img/flutter.png" alt="flutter" width="200"/>
